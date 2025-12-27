@@ -1,27 +1,16 @@
-# College-Event-App
-RISE Internship - Project 3
+# event
 
-A professional, high-end Flutter application designed to help college students discover, search for, and register for campus events. Built with a focus on modern UI/UX and responsive design.
+A new Flutter project.
 
- Features
-Dynamic Event Listing: View upcoming campus events with high-quality imagery, dates, and locations.
+## Getting Started
 
-Real-time Search: Filter events instantly using the search bar to find specific workshops, fests, or seminars.
+This project is a starting point for a Flutter application.
 
-One-Tap Registration: Seamless student registration with instant UI feedback and SnackBar notifications.
+A few resources to get you started if this is your first Flutter project:
 
-Responsive Design: Optimized for various screen sizes using Flutter's ListView and Card systems.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Modern UI: Uses Material 3, custom Indigo color palettes, and rounded "Glassmorphism" styled cards.
-
-🛠️ Built With
-Framework: Flutter
-
-Language: Dart
-
-Design System: Material 3
-
-State Management: StatefulWidgets (SetState)
-
-Screenshots:
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
